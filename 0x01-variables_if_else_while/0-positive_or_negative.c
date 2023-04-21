@@ -3,8 +3,8 @@
 #include <stdlib.h>
 /**
  * main - Entry point
- * description: get a random number and print number
- * return: always 0
+ * Description: get a random number and print number
+ * Return: always 0
  */
 int main(void)
 {
