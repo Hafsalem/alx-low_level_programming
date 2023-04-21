@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - main block
+ * main - Entry point
  * description: get a random number and print number
- * return 0 (Success)
+ * return: always 0
  */
 int main(void)
 { 
