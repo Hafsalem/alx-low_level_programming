@@ -7,7 +7,6 @@
  */
 
 int main(void)
-
 {
 
 	long x, maxf;
@@ -22,5 +21,6 @@ int main(void)
 	}
 	}
 	printf("%1d\n", maxf);
+
 	return (0);
 }
