@@ -4,7 +4,7 @@
  * mul - multiplies two integers
  * @x: the first number to multiply
  * @y: the second number to multiply
- * return: the result of multiplication between x param and y param
+ * Return: the result of multiplication between x param and y param
  */
 
 int mul(int x, int y)
