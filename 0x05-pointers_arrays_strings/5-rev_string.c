@@ -3,11 +3,10 @@
 /**
  * rev_string - reverses a string
  * @s: the string to be modified
- * return: void
+ * Return: void
  */
 
 void rev_string(char *s)
-
 {
 	int len = 0, index = 0;
 	char tmp;
