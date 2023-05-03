@@ -7,7 +7,7 @@
  *
  * return: nothing
  */
-void swap-int(int *a, int *b)
+void swap_int(int *a, int *b)
 /* the function that swaps the values of two integeres. */
 {
 	int temp = *a;
